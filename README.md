@@ -8,3 +8,5 @@
  and then sets the duty cycle to 50% 
  and then in a continous loop, slowly alters the duty cycle from 
  0% to 100% and then from 100% to 0%.
+ 
+ This causes LED_2 on the develoment board to slowly pulse on and off.
